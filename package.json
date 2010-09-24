@@ -1,0 +1,29 @@
+{
+    "name": "jammit-express",
+    "version": "0.0.1",
+    "description": "Jammit Helpers for Express.js",
+    "author": "Eric Abouaf <eric.abouaf@gmail.com>",
+    "bugs": { "web" : "http://github.com/neyric/jammit-express/issues" },
+    "os": ["darwin", "linux"],
+    "contributors": [
+        "Eric Abouaf <eric.abouaf@gmail.com> (http://neyric.com)"
+    ],
+    "engines": {
+        "node" : ">=0.2.0"
+    },
+    "directories": {
+        "lib" : "lib"
+    },
+    "main": "./init",
+    "bin" : { },
+    "dependencies": {},
+    "licenses":[
+        {
+            "type" : "BSD"
+        }
+    ],
+    "repository": {
+        "type":"git",
+        "url":"http://github.com/neyric/jammit-express.git"
+    }
+}
